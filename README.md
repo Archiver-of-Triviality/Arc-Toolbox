@@ -5,3 +5,6 @@ madagascar.CT: Enables the FPS and build info in the PC version of Madagascar (2
 tmo.exe: A patched version of the original exe that bypasses the BootFirst.exe message in Tokimeki Memorial Online, allowing you to open the game, but of course the servers are dead.
 
 webdiver_patch: Includes a No-CD patch and a fix for the splash screen crash for Webdiver (2002 PC Game).
+
+world_of_soccer_extractor_gui.py: Made for World of Soccer Telefoot, this python tool extracts the WorldOfSoccer.dat file. (.nif files can be opened with NifSkope)
+
